@@ -1,0 +1,20 @@
+{
+  "name": "beauty-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "beauty": "file:../IdeaProjects/beauty/beauty",
+    "vite-plugin-pwa": "^1.0.0",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.2",
+    "vite": "^6.3.1"
+  }
+}
