@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "beauty": "file:../IdeaProjects/beauty/beauty",
+    "beauty": "file:./beauty",
     "vite-plugin-pwa": "^1.0.0",
     "vue": "^3.5.13"
   },

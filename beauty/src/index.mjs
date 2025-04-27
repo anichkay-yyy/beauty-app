@@ -1,0 +1,1 @@
+export { getManifest } from './getManifest.js';
