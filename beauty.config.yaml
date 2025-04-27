@@ -13,3 +13,6 @@ icons:
   icon_dir: ./public/icons/
   icons_path: /icons/
 # If you want set more options in manifest, you can set there in the "general" tab of this config
+shortcuts:
+  - name: About,
+    url: /about
